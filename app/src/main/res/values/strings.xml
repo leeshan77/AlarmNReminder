@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AlarmNReminder</string>
+
+    <!-- Permission -->
+    <string name="permission_prompt">Please allow access to the permissions to use this app!</string>
+    <string name="permissions_rationale">Permission is denied. Please grant access manually in settings to use this app!</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="enable_permissions">Enable permissions</string>
+    <string name="goto_settings">Go to Settings!</string>
+
+    <!-- Ignore Battery Optimization -->
+    <string name="ignore_dialog_title">Ignore battery optimization</string>
+    <string name="ignore_dialog_text">This app needs the ability to run periodic jobs in the background.\nPlease allow it.</string>
+    <string name="btn_ok">OK</string>
+    <string name="title_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="title_activity_full_screen">FullScreenActivity</string>
+
+    <!-- Delete Dialog -->
+    <string name="delete_title">Are you sure you want to Delete?</string>
+    <string name="delete_message">"This operation cannot be revocable, Please press 'Yes' to continue"</string>
+
+    <!-- Settings -->
+    <string name="settings_screen_title">Settings</string>
+    <string name="settings_screen_general_title">General settings</string>
+    <string name="settings_screen_alarm_volume_title">Alarm volume : %1$d</string>
+    <string name="settings_screen_ringtone_title">Select ringtone</string>
+    <string name="settings_screen_alarm_settings_title">Alarm Settings</string>
+    <string name="settings_screen_vibrate_title">Vibrate</string>
+    <string name="settings_screen_vibrate_subtitle">Vibrate when alarms</string>
+    <string name="ringtone_selection_activity_title">Pick Ringtone</string>
+
+    <!-- Schedule Alarm -->
+    <string name="time_is_before_now">The set time is before now!</string>
+    <string name="swipe_to_snooze">Swipe to snooze</string>
+    <string name="swipe_to_close">Swipe to close</string>
+</resources>
